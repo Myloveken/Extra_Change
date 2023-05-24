@@ -19,6 +19,7 @@ public class ConverterClient {
         System.out.println("Valor convertido para Dolar:" + convertedAmount);
 
         scanner.close();
+        
     }
 
 }

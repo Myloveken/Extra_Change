@@ -12,7 +12,7 @@ public class CurrencyConverter {
                 throw new InvalidCurrencyValueException("Valor inválido");
 
             } else {
-
+                
                 convertedAmount = value / 5.50;
             }
 
